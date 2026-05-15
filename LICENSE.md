@@ -1,4 +1,4 @@
-# 
+# updated Sniper for geckoterminal sniper bot | dex-sniping & auto-buy offers the most advanced geckoterminal sniper bot, with dex-sniping and auto-buy. Ideal for professional MEV
 
 
 
